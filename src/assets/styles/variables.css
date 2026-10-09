@@ -1,0 +1,32 @@
+:root {
+  /* Peach & Purple Theme Variables */
+  --bg-peach-light: #FFF9F5;
+  --bg-peach-card: #FFF3EB;
+  --bg-peach-accent: #FFE5D8;
+  
+  --color-purple-primary: #7C3AED;
+  --color-purple-dark: #581C87;
+  --color-purple-deep: #4C1D95;
+  --color-purple-light: #F3E8FF;
+  --color-purple-hover: #6D28D9;
+  
+  --color-peach-primary: #F9652B;
+  --color-peach-light: #FFEDE5;
+  --color-peach-border: #FFD6C4;
+  
+  --text-primary: #2D1537;
+  --text-secondary: #645A6D;
+  --text-muted: #948B9C;
+  --text-light: #FFFFFF;
+  
+  --shadow-peach-purple: 0 10px 30px -5px rgba(124, 58, 237, 0.1), 0 4px 12px -2px rgba(249, 101, 43, 0.08);
+  --shadow-card-hover: 0 20px 35px -10px rgba(107, 33, 168, 0.18);
+  
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-full: 9999px;
+  
+  --font-heading: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-body: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}
